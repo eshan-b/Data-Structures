@@ -1,0 +1,5 @@
+A: B C G H
+B: A C H
+C: A B G
+G: A C
+H: A B

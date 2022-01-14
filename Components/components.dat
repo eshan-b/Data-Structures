@@ -1,0 +1,10 @@
+5
+rope >> plant_fiber plant_fiber plant_fiber
+bronze >> copper tin
+catapult >> wood wood wood rope rope bronze
+trebuchet >> catapult rope rope bronze
+balista >> wood wood rope bronze
+3
+rope
+balista
+trebuchet
