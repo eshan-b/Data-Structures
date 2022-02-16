@@ -65,9 +65,7 @@ public class GridMaze {
                         visited[adjX][adjY] = true;
                         q.add(new QueueNode(adjX, adjY, dist + 1));
                     }
-                } catch (IndexOutOfBoundsException e) {
-                    return -1;
-                }
+                } catch (IndexOutOfBoundsException e) { return -1; }
             }
         }
 
